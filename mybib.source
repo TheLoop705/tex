@@ -1,0 +1,58 @@
+tweepy-homepage https://www.tweepy.org/
+huggingface-homepage https://huggingface.co/
+nltk-homepage https://www.nltk.org/
+scid2pgn https://scid.sourceforge.net/  
+wordcloud-homepage https://github.com/amueller/word_cloud
+% docs
+twitter-rate-limit https://developer.twitter.com/en/docs/twitter-api/rate-limits
+twitter-getting-started https://developer.twitter.com/en/docs/platform-overview
+
+% endpoints
+twitter-v1-followers-list https://developer.twitter.com/en/docs/twitter-api/v1/accounts-and-users/follow-search-get-users/api-reference/get-followers-list
+twitter-v1-followers-ids https://developer.twitter.com/en/docs/twitter-api/v1/accounts-and-users/follow-search-get-users/api-reference/get-followers-ids
+twitter-v2-followers https://developer.twitter.com/en/docs/twitter-api/users/follows/api-reference/get-users-id-followers
+
+twitter-v1-statuses-user-timeline https://developer.twitter.com/en/docs/twitter-api/v1/tweets/timelines/api-reference/get-statuses-user_timeline
+twitter-v2-user-tweets https://developer.twitter.com/en/docs/twitter-api/tweets/timelines/api-reference/get-users-id-tweets
+twitter-v2-tweets-search-all https://docs.tweepy.org/en/stable/client.html#tweepy.Client.search_all_tweets
+
+ext-tweets-gh https://github.com/Mixy1/CPS3235_raw_data
+my-tweets-gh https://github.com/TheLoop705/cps3235_tweets
+
+% neo4j
+% homepages
+neo4j-homepage https://neo4j.com/
+neo4j-desktop https://neo4j.com/developer/neo4j-desktop/
+neo4j-aura https://neo4j.com/cloud/platform/aura-graph-database/
+
+% docs
+neo4j-python-driver https://neo4j.com/developer/python/
+neo4j-aura-apoc https://neo4j.com/docs/aura/platform/apoc/
+
+% cypher
+neo4j-cypher https://neo4j.com/docs/cypher-manual/current/
+neo4j-cypher-csv https://neo4j.com/docs/cypher-manual/current/clauses/load-csv/
+neo4j-cypher-create https://neo4j.com/docs/cypher-manual/current/clauses/create/
+neo4j-cypher-match https://neo4j.com/docs/cypher-manual/current/clauses/match/
+neo4j-cypher-merge https://neo4j.com/docs/cypher-manual/current/clauses/merge/
+neo4j-cypher-order-by https://neo4j.com/docs/cypher-manual/current/clauses/order-by/
+
+% apoc
+neo4j-apoc-gh https://github.com/neo4j-contrib/neo4j-apoc-procedures
+neo4j-apoc https://neo4j.com/developer/neo4j-apoc/
+neo4j-apoc-import-csv https://neo4j.com/docs/apoc/current/import/import-csv/
+neo4j-apoc-json https://neo4j.com/docs/apoc/current/import/load-json/
+neo4j-apoc-json-example https://neo4j.com/labs/apoc/4.4/import/load-json/#load-json-examples-stackoverflow
+neo4j-apoc-iterate https://neo4j.com/docs/apoc/current/overview/apoc.periodic/apoc.periodic.iterate/#usage-apoc.periodic.iterate
+
+% nlp
+neo4j-nlp https://neo4j.com/developer/graph-data-science/nlp/
+neo4j-apoc-nlp https://neo4j.com/labs/apoc/4.2/nlp/gcp/
+nlp-procedure-stackoverflow https://stackoverflow.com/questions/72468193/failed-to-invoke-procedure-in-apoc-nlp
+nlp-procedure-issue https://github.com/neo4j-contrib/neo4j-apoc-procedures/issues/1869
+google-nlp https://cloud.google.com/natural-language?hl=de
+
+% guides
+neo4j-guides-modeling https://neo4j.com/developer/guide-data-modeling/
+neo4j-guides-import-csv https://neo4j.com/developer/guide-import-csv/
+neo4j-guides-import-json https://neo4j.com/developer/guide-import-json-rest-api/
