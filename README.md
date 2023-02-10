@@ -6,10 +6,10 @@ goes through a file with name and url separated and creates .bib file to be used
 name www.example.com
 ```
 
-´´´python
+```python
 # ./reports/mybib.bib
 @online{name,
     url = {www.example.com}
 }
-´´´
+```
 
